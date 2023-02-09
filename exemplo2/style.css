@@ -1,0 +1,9 @@
+.iconoPequeno {
+    width: 1em;
+}
+
+.imaxeGrandota {
+    display: block;
+    width: 30%;
+    max-height: 10rem;
+}
